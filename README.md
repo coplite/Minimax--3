@@ -1,4 +1,4 @@
-# Minimax--3
+# Minimax (i made this a long while back sooo pls dont laugh at the structure 😔)
 
 This is an implementation of minimax and Alpha-Beta pruning in a game of tictactoe
   * The algorithm itself allows the machine to pick the most optimal move to search
